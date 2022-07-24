@@ -1,7 +1,13 @@
 package dev.subhashmeena.utilities.mtlsping;
 
+import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-public class BaseIntegrationTest {
+class ScalaMtlsPingApplicationTest {
+
+  @Test
+  def loadsContext() {
+
+  }
 }
